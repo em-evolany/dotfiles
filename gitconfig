@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = emilia@evolany.com
+	name = Emilia Zysk
